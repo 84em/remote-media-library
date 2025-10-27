@@ -87,5 +87,8 @@ GPL-2.0+
 
 ## Author
 
-Andrew Miller & 84EM
+Andrew Miller @ 84EM
 [https://84em.com](https://84em.com)
+
+## Development
+Pull requests welcome.

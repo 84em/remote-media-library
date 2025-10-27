@@ -4,7 +4,7 @@
  * Plugin URI: https://84em.com
  * Description: Replaces local URLs pointing to wp-content/uploads with production URLs to avoid downloading all media files to local development environments.
  * Version: 1.0.0
- * Author: Andrew Miller & 84EM
+ * Author: Andrew Miller @ 84EM
  * Author URI: https://84em.com
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
